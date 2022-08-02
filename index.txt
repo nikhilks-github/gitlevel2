@@ -1,1 +1,10 @@
 This contains Main file.
+
+Bug fix added.
+nikhil@NIKHILs-MacBook-Air gitlevel2 % git branch -d KEY-123
+Deleted branch KEY-123 (was f9f3a98).
+
+Feature 2 change
+
+fatal: pathspec 'data1.txt' did not match any files
+nikhil@NIKHILs-MacBook-Air gitlevel2 % 
