@@ -9,4 +9,4 @@ Feature 2 change
 fatal: pathspec 'data1.txt' did not match any files
 nikhil@NIKHILs-MacBook-Air gitlevel2 % 
 
-New change
+New change - bug fix
